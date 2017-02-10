@@ -12,7 +12,7 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 @SpringBootApplication
 @EnableCircuitBreaker
 public class ArticulateApplication {
-
+	
 	public static void main(String[] args) {
 		SpringApplication.run(ArticulateApplication.class, args);
 	}
